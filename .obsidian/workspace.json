@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "62a592867776f8a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "74cd6bedb4cc3f98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12e9037932dccd39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter1. PWK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb6dec70ea24691f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pentest-ad.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb9fda5c24c9fc1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "18d8396494013ba9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bcdcf2e9660bedf9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "589e052f08ebd8ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pentest-ad.png"
+              }
+            }
+          },
+          {
+            "id": "93d53009c1c250a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "765580d6f35c8987",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251.5
+  },
+  "right": {
+    "id": "0481ba17ef6c2f4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "005b286bc94163fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00b77e1626081d9a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pentest-ad.png",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b6a5ddc9f282c00e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pentest-ad.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc2db5616cbd69ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bcdcf2e9660bedf9",
+  "lastOpenFiles": [
+    "AD.md",
+    "Chapter1. PWK.md",
+    "Chapter6. 被动信息收集.md",
+    "Chapter10. Buffer Overflows介绍.md",
+    "Port Forward.md",
+    "Chapter8. 漏洞扫描.md",
+    "Chapter9. Web.md",
+    "Chapter7. 主动信息收集.md",
+    "Chapter5. Bash Scripting.md",
+    "Chapter4. Practical Tools.md"
+  ]
+}
