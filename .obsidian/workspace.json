@@ -20,6 +20,54 @@
             }
           },
           {
+            "id": "bc066a27e5e1aff0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter10. Buffer Overflows介绍.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bb20b86eb229a0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter11&12. Buffer Overflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f9052a3ffd9a50b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter21. Active Directory Attacks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d316dd0711633299",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter1. PWK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fb6dec70ea24691f",
             "type": "leaf",
             "state": {
@@ -30,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -59,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentest-ad.png"
+                "file": "Chapter1. PWK.md"
               }
             }
           },
@@ -106,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentest-ad.png",
+                "file": "Chapter1. PWK.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentest-ad.png",
+                "file": "Chapter1. PWK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,17 +205,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcdcf2e9660bedf9",
+  "active": "d316dd0711633299",
   "lastOpenFiles": [
-    "AD.md",
+    "Chapter11&12. Buffer Overflow.md",
     "Chapter1. PWK.md",
-    "Chapter6. 被动信息收集.md",
-    "Chapter10. Buffer Overflows介绍.md",
+    "AD.md",
     "Port Forward.md",
-    "Chapter8. 漏洞扫描.md",
-    "Chapter9. Web.md",
+    "TODO List.md",
     "Chapter7. 主动信息收集.md",
-    "Chapter5. Bash Scripting.md",
-    "Chapter4. Practical Tools.md"
+    "Chapter6. 被动信息收集.md",
+    "Chapter21. Active Directory Attacks.md",
+    "Chapter23. PowerShell Empire.md",
+    "Chapter10. Buffer Overflows介绍.md"
   ]
 }

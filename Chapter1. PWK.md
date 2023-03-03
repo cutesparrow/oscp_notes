@@ -43,6 +43,9 @@ Personally (and perhaps I overdid it but rather it so than failing), this was wh
 2.  Divided my notes by machine into Enumeration, Exploitation and Privilege Escalation (and Lateral Movement for the AD set), and Command List (the exact successful commands needed to identify and compromise vulnerabilites)
 3.  Copied all output that I felt successfully progressed the categories above to my notes, removing the extraneous ones if I ultimately hit a dead end
 4.  Took a screenshot of only things I felt I'd need to remind myself of when re-compromising the boxes, as well as the local.txt and proof.txt shots with the user/ group and IP info as required by the exam doc.
+5. 使用autorecon
+6. 反弹shell的端口记得尝试443/80
+7. 手工sql注入需要加强
 
 When I hit 80 points, I:
 
